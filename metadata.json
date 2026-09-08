@@ -1,0 +1,6 @@
+{
+  "name": "CyberGuard AI",
+  "description": "AI Cybercrime Risk Prediction & GIS Heatmap Intelligence Platform with early warning, what-if simulator, and law enforcement analytics.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
